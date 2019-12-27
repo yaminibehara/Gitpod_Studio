@@ -1,5 +1,5 @@
 # What is repo?
-***A GitHub Project is known as `repo` ***
+***A GitHub Project is known as `repo`***
 # Gitpod_Studio
 
 > Before Creating a New Android Studio Project Please Make sure that you guys have `fork` this repo so then Changes have been saved 
