@@ -35,7 +35,11 @@ if(open_ports == 'found'){
 }
 ```
 
-** Voila Clicked on it.? Yes!.. There we may see a new tab has been opened and a window of Android studio, which needs to configure after installation!.**
+**Voila Clicked on it.? Yes!.. There we may see a new tab has been opened and a window of Android studio, which needs to configure after installation!.**
+
+![Android Studio](https://i.imgur.com/VCypWQI.png)
+
+**__That's all We have got out Andoird Studio on Web which is cloud based.. ;)__**
 
 ## To Save Changes happened in Gitpod to reflect in Github..
 
