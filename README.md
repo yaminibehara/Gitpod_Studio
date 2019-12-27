@@ -24,6 +24,17 @@ Then Just open the tab Open Ports down to the Screen Which looks like. 👇
 ```
 ![Open Ports](https://i.imgur.com/n3meMxR.png)
 
+## I Found it Where is Andorid Studio..??
+
+``` Java
+if(open_ports == 'found'){
+  need_port = 6080
+  if(need_port){
+    user.click("open Browser");
+    }
+    }
+```
+
 ## To Save Changes happened in Gitpod to reflect in Github..
 
 Menu -> Terminal -> Run Task -> Save Changes.. [Choose Defaults what ever is next ]
