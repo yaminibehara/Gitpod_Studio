@@ -49,6 +49,9 @@ if(open_ports == 'found'){
 - Every time we restart old workspace Gitpod Creates new fresh environment which leads to reconfigure all the Android Studio from First.. :(
 - All new Projects Should be Saved in the WorkSpace Folder -> AndroidStudioProjects.
 ```
+ # Project Location should be
+ ![Location](https://i.imgur.com/jrOkCAM.png?1)
+ ![Saving](https://i.imgur.com/UjSBMxY.png)
 
 ## Why it is needed to Save Projects in that folder only?
 
