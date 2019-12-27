@@ -17,10 +17,10 @@ like this 👇
 ```
 Just Click on the Button named gitpod which is looks like 👆
 
-After that you can seen an web Editor like Visual Studio Code which based on Eclipse Theia which may takes some time to load based -
-on your Browser and Internet Speed.!!! 🤔
+After that you can seen an web Editor like Visual Studio Code which based on Eclipse Theia.
+Which may takes some time to load based on your Browser and Internet Speed.!!! 🤔
 
-Then Just open the tab **Open Ports** down to the Screen Which looks like. 👇
+Then Just open the tab Open Ports down to the Screen Which looks like. 👇
 ```
 ![Open Ports](https://i.imgur.com/n3meMxR.png)
 
