@@ -8,5 +8,5 @@
 
 Menu -> Terminal -> Run Task -> Save Changes.. [Choose Defaults what ever is next ]
 
-![https://imgur.com/a/XFEHaKz]
+![Gitpod Demo](https://imgur.com/a/XFEHaKz)
 
