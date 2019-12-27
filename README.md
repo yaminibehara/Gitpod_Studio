@@ -1,7 +1,7 @@
 # Gitpod_Studio
 
 > Before Creating a New Android Studio Project Please Make sure that you guys have `fork` this repo so then Changes have been saved 
-> to you github
+> to your github
 
 ## To Save Changes happened in Gitpod to reflect in Github..
 
