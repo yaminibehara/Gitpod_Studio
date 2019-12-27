@@ -8,3 +8,5 @@
 
 Menu -> Terminal -> Run Task -> Save Changes.. [Choose Defaults what ever is next ]
 
+![https://imgur.com/a/XFEHaKz]
+
