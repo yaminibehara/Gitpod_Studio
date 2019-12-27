@@ -13,8 +13,18 @@ After adding extension make sure that refresh browser and find a Button named Gi
 like this 👇
 ![Gitpod Checking](https://www.gitpod.io/static/2c745773fde70fc20c510cffdf53b52f/b395d/browser-ext.png)
 
-## To Save Changes happened in Gitpod to reflect in Github..
+# What Next
+```
+Just Click on the Button named gitpod which is looks like :point_up_2:
 
+After that you can seen an web Editor like Visual Studio Code which based on Eclipse Theia which may takes some time to load based -
+on your Browser and Internet Speed.!!! :thinking:
+
+Then Just open the tab **Open Ports** down to the Screen Which looks like. :point_down:
+```
+![Open Ports](https://i.imgur.com/n3meMxR.png)
+
+## To Save Changes happened in Gitpod to reflect in Github..
 
 Menu -> Terminal -> Run Task -> Save Changes.. [Choose Defaults what ever is next ]
 
