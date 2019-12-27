@@ -32,8 +32,12 @@ if(open_ports == 'found'){
   if(need_port){
     user.click("open Browser");
     }
-    }
+}
 ```
+
+** Voila Clicked on it.? Yes!.. There we may see a new tab has been opened and a window of Android studio, which needs to configure 
+
+after installation!.**
 
 ## To Save Changes happened in Gitpod to reflect in Github..
 
