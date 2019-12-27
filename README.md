@@ -1,3 +1,5 @@
+# What is repo?
+***A GitHub Project is known as `repo` ***
 # Gitpod_Studio
 
 > Before Creating a New Android Studio Project Please Make sure that you guys have `fork` this repo so then Changes have been saved 
@@ -39,7 +41,21 @@ if(open_ports == 'found'){
 
 ![Android Studio](https://i.imgur.com/VCypWQI.png)
 
-**__That's all We have got out Andoird Studio on Web which is cloud based.. ;)__**
+***That's all We have got out Andoird Studio on Web which is cloud based.. ;)***
+
+# Points to be noted before Creating a new Project in Android Studio & About Android Studio.
+
+``` 
+- Every time we restart old workspace Gitpod Creates new fresh environment which leads to reconfigure all the Android Studio from First.. :(
+- All new Projects Should be Saved in the WorkSpace Folder -> AndroidStudioProjects.
+```
+
+## Why it is needed to Save Projects in that folder only?
+
+> Because  Everytime we Created a new Workspace or restarted a workspace Gitpod creates a new environment rather than using old environment
+>We Know that we need files to be stored some where to reuse the in gitpod.. So that we have to save the all changes to GitHub Which can 
+hold upto 500 mb for a single repo..!
+> This means we can save upto 10 Android Project in a single repo
 
 ## To Save Changes happened in Gitpod to reflect in Github..
 
