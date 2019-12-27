@@ -35,9 +35,7 @@ if(open_ports == 'found'){
 }
 ```
 
-** Voila Clicked on it.? Yes!.. There we may see a new tab has been opened and a window of Android studio, which needs to configure 
-
-after installation!.**
+** Voila Clicked on it.? Yes!.. There we may see a new tab has been opened and a window of Android studio, which needs to configure after installation!.**
 
 ## To Save Changes happened in Gitpod to reflect in Github..
 
