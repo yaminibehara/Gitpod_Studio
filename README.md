@@ -1,5 +1,4 @@
 # Gitpod_Studio
-:busstop:
 
 > Before Creating a New Android Studio Project Please Make sure that you guys have `fork` this repo so then Changes have been saved 
 > to your github
@@ -16,12 +15,12 @@ like this 👇
 
 # What Next
 ```
-Just Click on the Button named gitpod which is looks like :point_up_2:
+Just Click on the Button named gitpod which is looks like 👆
 
 After that you can seen an web Editor like Visual Studio Code which based on Eclipse Theia which may takes some time to load based -
-on your Browser and Internet Speed.!!! :thinking:
+on your Browser and Internet Speed.!!! 🤔
 
-Then Just open the tab **Open Ports** down to the Screen Which looks like. :point_down:
+Then Just open the tab **Open Ports** down to the Screen Which looks like. 👇
 ```
 ![Open Ports](https://i.imgur.com/n3meMxR.png)
 
